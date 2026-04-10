@@ -41,11 +41,11 @@ In the highly competitive global retail market, understanding sales trends acros
 ---
 
 ## 🖼️ Analysis Visualizations
-*(Replace the placeholder URLs with the images of the specific charts you created in your Excel file)*
+
 
 | 📌 Regional Sales Distribution | 📌 Product Category Profitability |
 | :---: | :---: |
-| <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=500&auto=format&fit=crop" alt="Sales Chart"> | <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=500&auto=format&fit=crop" alt="Profit Chart"> |
+ <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=500&auto=format&fit=crop" alt="Profit Chart"> |
 | *Breakdown of revenue across global markets.* | *Identifying high-margin vs. low-margin items.* |
 
 ---
